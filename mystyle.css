@@ -1,0 +1,26 @@
+.mynavbar{
+background-color: aquamarine;
+padding: 20px;
+display: flex;
+justify-content: space-between;
+border-radius: 50px;
+}
+.mynavitems{
+text-decoration: none;
+list-style: none;
+
+
+}
+.unorderedlist{
+    display: flex;
+    gap: 100px;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+.mylogo{
+    height: auto;
+    width: auto;
+}
