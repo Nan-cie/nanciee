@@ -1,5 +1,5 @@
 .mynavbar{
-background-color: aquamarine;
+background-color: rgb(21, 190, 202);
 padding: 20px;
 display: flex;
 justify-content: space-between;
@@ -23,4 +23,38 @@ a{
 .mylogo{
     height: auto;
     width: auto;
+}
+.h2,h3,h4{
+    color: rgb(49, 20, 214);
+}
+
+
+ #home{
+    background-image: url("images/download.jfif");
+background-repeat:no-repeat;
+padding: 50px;
+background-position: center;
+background-size : cover;
+margin-top: 50px;
+color:black ;
+text-align: center;
+}
+#about{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px;
+    background-color: rgb(152, 245, 245);
+}
+#contact{
+    margin-top: 50px;
+    background-color: rgb(152, 245, 245);
+}
+
+.aob{background-color: rgb(152, 245, 245);
+}
+
+.footer{
+   font-style: italic;
 }
