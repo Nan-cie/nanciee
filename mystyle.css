@@ -26,7 +26,7 @@ a{
     width: auto;
 }
 .h2,h3,h4{
-    color: rgb(49, 20, 214);
+    color: rgb(10, 127, 236);
 }
 
 
@@ -55,13 +55,16 @@ text-align: center;
     padding: 20PX;
 }
 
-.aob{background-color: whitesmoke
+.aob{background-color: white;
+    font-style: italic;
+    font-size: medium;
 }
 
 .footer{
-   font-style: italic;
+   font: bold;
    color: rgb(64, 14, 245);
    background-color: rgb(250, 207, 152);
+   font-size: medium;
 }
 .mydivisions{
     background: rgb(240, 225, 197);
