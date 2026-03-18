@@ -1,9 +1,10 @@
 .mynavbar{
-background-color: rgb(21, 190, 202);
+background-color: rgb(250, 207, 152);
 padding: 20px;
 display: flex;
 justify-content: space-between;
 border-radius: 50px;
+ 
 }
 .mynavitems{
 text-decoration: none;
@@ -35,26 +36,37 @@ background-repeat:no-repeat;
 padding: 50px;
 background-position: center;
 background-size : cover;
-margin-top: 50px;
+margin-top: 20px;
 color:black ;
 text-align: center;
 }
 #about{
     display: flex;
     justify-content:space-evenly;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     padding: 20px;
-    background-color: rgb(152, 245, 245);
+    background-color: whitesmoke;
+
 }
 #contact{
-    margin-top: 50px;
-    background-color: rgb(152, 245, 245);
+    margin-top: 20px;
+    background-color: whitesmoke;
+    padding: 20PX;
 }
 
-.aob{background-color: rgb(152, 245, 245);
+.aob{background-color: whitesmoke
 }
 
 .footer{
    font-style: italic;
+   color: rgb(64, 14, 245);
+   background-color: rgb(250, 207, 152);
 }
+.mydivisions{
+    background: rgb(240, 225, 197);
+    text-align: center;
+    border-radius: 50px;
+   box-shadow: darkgoldenrod;
+}
+    
