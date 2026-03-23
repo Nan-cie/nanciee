@@ -26,12 +26,12 @@ a{
     width: auto;
 }
 .h2,h3,h4{
-    color: rgb(10, 127, 236);
+    color: rgb(252, 117, 7);
 }
 
 
  #home{
-    background-image: url("images/download.jfif");
+    background-image: url("images/mypic.jpg");
 background-repeat:no-repeat;
 padding: 50px;
 background-position: center;
